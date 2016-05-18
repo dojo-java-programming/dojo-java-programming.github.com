@@ -8,4 +8,3 @@ Create a simple web-application, based on the Maven archetype artifact-id: `mave
 
 
 ## Action Plan
-
