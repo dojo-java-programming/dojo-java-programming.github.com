@@ -3,4 +3,10 @@ layout: post
 title: Hello World WebApp
 ---
 
-Create simple web-application, based on the Maven archetype xx xx.
+Create a simple web-application, based on the Maven archetype artifact-id: `maven-archetype-webapp`
+(group-id:  `org.apache.maven.archetypes`).
+
+# Introduction
+
+# Action Plan
+
