@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Continuous Integration with [Travis-CI](travis-ci.org)
+title: Continuous Integration with Travis-CI
 ---
+
+To see if the Java project compiles correct and that all (unit) tests are running successfully, the git project is added
+to [Travis-CI](travis-ci.org) an Continuous Integration / Continuous Delivery service.
+
 
 ## Action Plan
 
