@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Eclipse working with-git
+title: Eclipse working with git
 ---
 
