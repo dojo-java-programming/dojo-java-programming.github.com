@@ -14,7 +14,7 @@ to [Travis-CI](travis-ci.org) an Continuous Integration / Continuous Delivery se
 __Oracle Java 1.7 Project__
 
 file `.travis.yml`
-{% highlight java %}
+{% highlight yaml %}
 language: java
 {% endhighlight %}
 
@@ -22,7 +22,7 @@ language: java
 __Oracle Java 1.8 Project__
 
 file `.travis.yml`
-{% highlight java %}
+{% highlight yaml %}
 language: java
  
 jdk:
