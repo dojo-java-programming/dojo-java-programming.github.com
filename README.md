@@ -9,4 +9,4 @@ The content is written as [Jekyll Pages](https://jekyllrb.com/docs/pages/).
  
 [![slack](https://raw.githubusercontent.com/dojo-java-programming/dojo-java-programming.github.com/master/images/slack_cmyk-112x32.png)](https://dojo-java-programming.slack.com) 
 
-Get invited to our group __dojo-java-programming__ on slack.
+Get invited to our group __dojo-java-programming__ on [slack](https://dojo-java-programming.slack.com).
