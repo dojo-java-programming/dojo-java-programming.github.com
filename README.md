@@ -7,6 +7,6 @@ The content is written as [Jekyll Pages](https://jekyllrb.com/docs/pages/).
 
 ## Team Communication
  
-[![slack](https://raw.githubusercontent.com/dojo-java-programming/dojo-java-programming.github.io/master/images/slack_cmyk-112x32.png)](https://dojo-java-programming.slack.com) 
+[![slack](https://raw.githubusercontent.com/dojo-java-programming/dojo-java-programming.github.com/master/images/slack_cmyk-112x32.png)](https://dojo-java-programming.slack.com) 
 
 Join our group __dojo-java-programming__ on slack.
