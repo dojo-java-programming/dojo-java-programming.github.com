@@ -6,7 +6,8 @@
 name: Dojo Java Programming Group
 
 # Short bio or description (displayed in the header)
-description: This GitHub group creates small workshop example programs (Dojo's) in the Java programming language. 
+#description: This GitHub group creates small workshop example programs (Dojo's) in the Java programming language.
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: #https://raw.githubusercontent.com/dojo-java-programming/dojo-java-programming.github.com/master/images/jekyll-logo.png
