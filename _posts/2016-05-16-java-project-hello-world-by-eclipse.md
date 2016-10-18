@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World WebApp by Eclipse
+title: Hello World by Eclipse
 ---
 
 Create a simple hello-world project in Eclipse. 
